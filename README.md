@@ -59,7 +59,7 @@ streamlit run main.py
 ```
 Project demo 
 
-<img src="https://github.com/AdityaWadkar/IPL-Winner-Predictor/assets/67093170/dc9a5d42-a0be-44ce-87eb-24bbc021745e">
+<img src="https://github.com/SujeetSharma7/IPL-Winner-Predictor/blob/main/20250412_001219.png">
 
 ## 🤝 Contributing 
 🏆🏏 Contributions to the IPL Victory Predictor project are highly appreciated! If you're passionate about cricket and data analysis, we'd love to have you on board. 🤝🌟✨
