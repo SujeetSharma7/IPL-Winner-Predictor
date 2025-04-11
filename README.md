@@ -1,7 +1,3 @@
-# IPL-Winner-Predictor
-This model predicts IPL winner based on last year Data as  input
-
-
 # IPL-Winner-Predictor 🏏🔮
 
 [![Build Status](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger.svg?branch=master)](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger)
