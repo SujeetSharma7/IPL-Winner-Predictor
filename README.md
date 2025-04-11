@@ -57,7 +57,7 @@ Run the project:
 ```
 streamlit run main.py
 ```
-Project demo 
+Project Screenshot:-
 
 <img src="https://github.com/SujeetSharma7/IPL-Winner-Predictor/blob/da7693365b13d353c5f92a91970cc15e09a515c0/20250412_001219.png">
 
