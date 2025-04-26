@@ -5,7 +5,6 @@
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
 
-## The Projet is live at:- [IPL Winner Predictor](https://iplpredictor.streamlit.app/)
 
 ## 📖 Introduction
 The IPL Victory Predictor project is a powerful tool that harnesses the power of machine learning to forecast the outcome of matches in the Indian Premier League (IPL) 📈🏆. With its rich dataset containing information on every ball thrown from 2008 to 2021, this project aims to provide cricket enthusiasts, data analysts, and team strategists with valuable insights into team performance and factors influencing victory. 💪📊
