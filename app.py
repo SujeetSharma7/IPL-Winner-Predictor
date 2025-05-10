@@ -29,7 +29,7 @@ background: rgba(0,0,0,0);
     """
     st.markdown(css, unsafe_allow_html=True)
 
-set_background("back.jpg")
+set_background("bg1.jpg")
 
 
 teams = ['Sunrisers Hyderabad',
